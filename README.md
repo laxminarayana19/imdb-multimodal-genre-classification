@@ -1,6 +1,6 @@
-# imdb-multimodal-genre-classification# Multimodal IMDB Film Genre Classification (CNN + LSTM)
+# Multimodal IMDB Film Genre Classification (CNN + LSTM)
 
-## 📌 Overview
+##  Overview
 
 This project implements a multimodal deep learning approach to classify movie genres using:
 
@@ -11,7 +11,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Build GPU-accelerated data pipelines using TensorFlow
 * Develop and train deep learning models in Keras
@@ -19,7 +19,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## 🧠 Models
+## Models
 
 ### 1. CNN (Image-based)
 
@@ -35,7 +35,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Model | Strengths                               | Weaknesses                        |
 | ----- | --------------------------------------- | --------------------------------- |
@@ -53,7 +53,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## 🚀 Improvements
+##  Improvements
 
 * Use **transfer learning** (ResNet, EfficientNet)
 * Apply **pre-trained embeddings** (GloVe, FastText)
@@ -62,7 +62,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## 📁 Files
+## Files
 
 * `Keras_Assignment.ipynb` → Model implementation
 * `report.pdf` → Critical analysis
@@ -70,7 +70,7 @@ The task is a **multi-label classification problem**, where each film can belong
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 * Python 3.x
 * TensorFlow / Keras
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👤 Author
+## Author
 
 Laxmi Narayana Gugulothu
 
